@@ -1,6 +1,12 @@
 Hi Hello
 
+<<<<<<< Updated upstream
 
 public void m2(){//Task-2
 String s ="sam";
 }
+=======
+public void m1(){//Task - 1
+int a = 10;
+}
+>>>>>>> Stashed changes
