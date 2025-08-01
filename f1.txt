@@ -1,1 +1,6 @@
 Hi Hello
+
+
+public void m2(){//Task-2
+String s ="sam";
+}
