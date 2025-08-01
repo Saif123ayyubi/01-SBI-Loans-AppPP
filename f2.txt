@@ -3,3 +3,5 @@ int x = 11;
 }
 
 int a =44;//changes
+
+double d = 55.8;
