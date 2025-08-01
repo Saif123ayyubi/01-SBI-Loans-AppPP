@@ -10,3 +10,6 @@ public void m1(){//Task - 1
 int a = 10;
 }
 >>>>>>> Stashed changes
+
+
+Task -2
